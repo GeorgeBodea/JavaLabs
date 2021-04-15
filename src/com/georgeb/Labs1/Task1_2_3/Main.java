@@ -1,4 +1,4 @@
-package com.georgeb.tasks;
+package com.georgeb.Labs1.Task1_2_3;
 
 import java.io.*;
 
